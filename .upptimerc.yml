@@ -36,7 +36,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  logoUrl: https://unseult.net/images/1t-rond.png
+  
+  logoUrl: https://raw.githubusercontent.com/UnSeulT/upptime/master/assets/1t-rond.png
   name: Upptime A71T
   introTitle: "**Upptime**"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). 
