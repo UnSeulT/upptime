@@ -7,25 +7,40 @@ sites:
     url: https://solagro.org
   - name: Osae
     url: https://osez-agroecologie.org
-  - name: Afterres
+  - name: Afterres 2050
     url: http://afterres2050.solagro.org
   - name: Encalcat Abbaye
     url: https://encalcat.com
   - name: Encalcat Boutique
-    url: https://boutique-encalcat.com
+    url: https://boutique.encalcat.com
+  - name: La place de la danse
+    url: https://laplacedeladanse.com
+  - name: Junior Association
+    url: https://juniorassociation.org/
+  - name: Bio 34
+    url: https://bio34.com/
+  - name: Cocagne Acepp 31
+    url: https://cocagne31.org
+  - name: Moodle - Cocagne Acepp 31
+    url: https://moodle.cocagne31.org
+  - name: Accueil pour tous
+    url: https://accueilpourtous31.fr
+  - name: Tau
+    url: https://tau.so
+  - name: Bujinkan Toulouse
+    url: https://bujinkan-toulouse.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /UnSeulT/upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://unseult.net/images/1t-rond.png
+  name: Upptime A71T
   introTitle: "**Upptime**"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). 
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). 
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
