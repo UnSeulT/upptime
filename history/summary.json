@@ -77,11 +77,11 @@
     "icon": "https://favicons.githubusercontent.com/boutique.encalcat.com",
     "slug": "encalcat-boutique",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 1203,
     "timeDay": 1331,
     "timeWeek": 1290,
@@ -114,9 +114,9 @@
     "url": "https://juniorassociation.org/",
     "icon": "https://favicons.githubusercontent.com/juniorassociation.org",
     "slug": "junior-association",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,7 +125,9 @@
     "timeWeek": 1120,
     "timeMonth": 1092,
     "timeYear": 1193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 0
+    }
   },
   {
     "name": "Bio 34",
