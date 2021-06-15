@@ -4,19 +4,19 @@
     "url": "https://solagro.org",
     "icon": "https://favicons.githubusercontent.com/solagro.org",
     "slug": "solagro",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1021,
-    "timeDay": 929,
-    "timeWeek": 983,
-    "timeMonth": 1040,
-    "timeYear": 1021,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1019,
+    "timeDay": 920,
+    "timeWeek": 974,
+    "timeMonth": 1036,
+    "timeYear": 1019,
     "dailyMinutesDown": {
-      "2021-06-15": 0
+      "2021-06-15": 9
     }
   },
   {
