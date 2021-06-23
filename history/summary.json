@@ -22,19 +22,19 @@
     "url": "https://osez-agroecologie.org",
     "icon": "https://favicons.githubusercontent.com/osez-agroecologie.org",
     "slug": "osae",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1375,
-    "timeDay": 1099,
-    "timeWeek": 1299,
-    "timeMonth": 1395,
-    "timeYear": 1375,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1376,
+    "timeDay": 1210,
+    "timeWeek": 1313,
+    "timeMonth": 1396,
+    "timeYear": 1376,
     "dailyMinutesDown": {
-      "2021-06-23": 0
+      "2021-06-23": 12
     }
   },
   {
