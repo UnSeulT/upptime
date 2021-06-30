@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1373,
     "timeDay": 1274,
-    "timeWeek": 1274,
+    "timeWeek": 1353,
     "timeMonth": 1384,
     "timeYear": 1373,
     "dailyMinutesDown": {}
@@ -40,19 +40,19 @@
     "url": "http://afterres2050.solagro.org",
     "icon": "https://favicons.githubusercontent.com/afterres2050.solagro.org",
     "slug": "afterres-2050",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1951,
-    "timeDay": 1699,
-    "timeWeek": 1900,
-    "timeMonth": 1923,
-    "timeYear": 1951,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "91.32%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.85%",
+    "time": 1957,
+    "timeDay": 1915,
+    "timeWeek": 1949,
+    "timeMonth": 1936,
+    "timeYear": 1957,
     "dailyMinutesDown": {
-      "2021-06-30": 0
+      "2021-06-30": 125
     }
   },
   {
