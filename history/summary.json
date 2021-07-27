@@ -208,9 +208,9 @@
     "url": "https://tau.so",
     "icon": "https://favicons.githubusercontent.com/tau.so",
     "slug": "tau",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -219,7 +219,9 @@
     "timeWeek": 314,
     "timeMonth": 304,
     "timeYear": 298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-27": 0
+    }
   },
   {
     "name": "Bujinkan Toulouse",
