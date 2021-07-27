@@ -208,19 +208,19 @@
     "url": "https://tau.so",
     "icon": "https://favicons.githubusercontent.com/tau.so",
     "slug": "tau",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 298,
-    "timeDay": 301,
-    "timeWeek": 314,
+    "timeDay": 293,
+    "timeWeek": 310,
     "timeMonth": 304,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2021-07-27": 0
+      "2021-07-27": 11
     }
   },
   {
