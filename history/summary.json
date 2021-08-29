@@ -190,9 +190,9 @@
     "url": "https://accueilpourtous31.fr",
     "icon": "https://favicons.githubusercontent.com/accueilpourtous31.fr",
     "slug": "accueil-pour-tous",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -201,7 +201,9 @@
     "timeWeek": 1052,
     "timeMonth": 1408,
     "timeYear": 1148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-29": 0
+    }
   },
   {
     "name": "Tau",
