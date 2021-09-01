@@ -4,10 +4,10 @@
     "url": "https://solagro.org",
     "icon": "https://favicons.githubusercontent.com/solagro.org",
     "slug": "solagro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1296,
@@ -15,7 +15,9 @@
     "timeWeek": 1944,
     "timeMonth": 1542,
     "timeYear": 1296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 1
+    }
   },
   {
     "name": "Osae",
