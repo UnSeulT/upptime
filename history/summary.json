@@ -62,10 +62,10 @@
     "url": "https://encalcat.com",
     "icon": "https://favicons.githubusercontent.com/encalcat.com",
     "slug": "encalcat-abbaye",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1014,
@@ -73,16 +73,18 @@
     "timeWeek": 970,
     "timeMonth": 1000,
     "timeYear": 1014,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-23": 1
+    }
   },
   {
     "name": "Encalcat Boutique",
     "url": "https://boutique.encalcat.com",
     "icon": "https://favicons.githubusercontent.com/boutique.encalcat.com",
     "slug": "encalcat-boutique",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -92,6 +94,7 @@
     "timeMonth": 1106,
     "timeYear": 1177,
     "dailyMinutesDown": {
+      "2021-09-23": 0,
       "2021-05-02": 236
     }
   },
