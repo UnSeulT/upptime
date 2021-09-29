@@ -24,10 +24,10 @@
     "url": "https://osez-agroecologie.org",
     "icon": "https://favicons.githubusercontent.com/osez-agroecologie.org",
     "slug": "osae",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1412,
@@ -35,7 +35,9 @@
     "timeWeek": 1461,
     "timeMonth": 1593,
     "timeYear": 1412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 1
+    }
   },
   {
     "name": "Afterres 2050",
@@ -103,9 +105,9 @@
     "url": "https://laplacedeladanse.com",
     "icon": "https://favicons.githubusercontent.com/laplacedeladanse.com",
     "slug": "la-place-de-la-danse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,16 +116,18 @@
     "timeWeek": 1103,
     "timeMonth": 1002,
     "timeYear": 1069,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   },
   {
     "name": "Junior Association",
     "url": "https://juniorassociation.org/",
     "icon": "https://favicons.githubusercontent.com/juniorassociation.org",
     "slug": "junior-association",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -133,6 +137,7 @@
     "timeMonth": 1011,
     "timeYear": 1110,
     "dailyMinutesDown": {
+      "2021-09-29": 0,
       "2021-06-09": 20
     }
   },
@@ -204,7 +209,7 @@
     "time": 1145,
     "timeDay": 1257,
     "timeWeek": 1090,
-    "timeMonth": 1134,
+    "timeMonth": 1104,
     "timeYear": 1145,
     "dailyMinutesDown": {}
   },
