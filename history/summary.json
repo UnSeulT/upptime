@@ -260,18 +260,19 @@
     "url": "https://bujinkan-toulouse.com",
     "icon": "https://favicons.githubusercontent.com/bujinkan-toulouse.com",
     "slug": "bujinkan-toulouse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 698,
-    "timeDay": 687,
-    "timeWeek": 645,
-    "timeMonth": 638,
-    "timeYear": 698,
+    "time": 701,
+    "timeDay": 1071,
+    "timeWeek": 746,
+    "timeMonth": 663,
+    "timeYear": 701,
     "dailyMinutesDown": {
+      "2021-12-13": 0,
       "2021-10-13": 71
     }
   }
