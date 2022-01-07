@@ -51,10 +51,10 @@
     "url": "http://afterres2050.solagro.org",
     "icon": "https://favicons.githubusercontent.com/afterres2050.solagro.org",
     "slug": "afterres-2050",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 2109,
@@ -63,6 +63,7 @@
     "timeMonth": 2066,
     "timeYear": 2109,
     "dailyMinutesDown": {
+      "2022-01-07": 1,
       "2021-10-13": 133,
       "2021-06-30": 125
     }
