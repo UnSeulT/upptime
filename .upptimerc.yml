@@ -13,9 +13,19 @@ sites:
     url: https://encalcat.com
   - name: Encalcat Boutique
     url: https://boutique.encalcat.com
+  - name: Dom Robert
+    url: https://www.domrobert.com/
+  - name: Graines del Païs
+    url: https://grainesdelpais.com/
+  - name: LMAC
+    url: https://reseau-lmac.fr
   - name: La place de la danse
     url: https://laplacedeladanse.com
-  - name: Junior Association
+  - name: Fondation Écureuil
+    url: https://caisseepargne-art-contemporain.fr/
+  - name: Biaugerme
+    url: https://www.biaugerme.com/
+  - name: Junior Association RNJA
     url: https://juniorassociation.org/
   - name: Bio 34
     url: https://bio34.com/
