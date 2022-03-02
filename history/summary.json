@@ -327,11 +327,11 @@
     "url": "https://tau.so",
     "icon": "https://favicons.githubusercontent.com/tau.so",
     "slug": "tau",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 332,
     "timeDay": 311,
@@ -339,6 +339,7 @@
     "timeMonth": 273,
     "timeYear": 332,
     "dailyMinutesDown": {
+      "2022-03-02": 0,
       "2022-02-24": 15
     }
   },
