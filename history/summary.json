@@ -134,9 +134,9 @@
     "url": "https://grainesdelpais.com/",
     "icon": "https://favicons.githubusercontent.com/grainesdelpais.com",
     "slug": "graines-del-pais",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -146,6 +146,7 @@
     "timeMonth": 978,
     "timeYear": 978,
     "dailyMinutesDown": {
+      "2022-03-14": 0,
       "2022-02-21": 20
     }
   },
