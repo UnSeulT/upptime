@@ -124,19 +124,17 @@
     "icon": "https://favicons.githubusercontent.com/www.domrobert.com",
     "slug": "dom-robert",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1412,
     "timeDay": 1598,
     "timeWeek": 1405,
     "timeMonth": 1503,
     "timeYear": 1412,
-    "dailyMinutesDown": {
-      "2022-04-11": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Graines del Païs",
@@ -186,9 +184,9 @@
     "slug": "la-place-de-la-danse",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 1068,
     "timeDay": 1250,
@@ -196,7 +194,6 @@
     "timeMonth": 1076,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2022-04-11": 14,
       "2021-11-09": 56,
       "2021-10-13": 72,
       "2021-10-02": 341,
@@ -210,9 +207,9 @@
     "url": "https://caisseepargne-art-contemporain.fr/",
     "icon": "https://favicons.githubusercontent.com/caisseepargne-art-contemporain.fr",
     "slug": "fondation-ecureuil",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -221,7 +218,9 @@
     "timeWeek": 1438,
     "timeMonth": 1562,
     "timeYear": 1532,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 0
+    }
   },
   {
     "name": "Biaugerme",
@@ -365,9 +364,9 @@
     "slug": "bujinkan-toulouse",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
     "time": 726,
     "timeDay": 940,
@@ -375,7 +374,6 @@
     "timeMonth": 863,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2022-04-11": 6,
       "2021-12-15": 1020,
       "2021-12-14": 1440,
       "2021-12-13": 1147,
