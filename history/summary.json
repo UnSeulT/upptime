@@ -6,14 +6,14 @@
     "slug": "solagro",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "25.31%",
+    "uptimeDay": "25.57%",
     "uptimeWeek": "59.80%",
     "uptimeMonth": "90.75%",
     "uptimeYear": "99.21%",
     "time": 1529,
-    "timeDay": 1186,
+    "timeDay": 1668,
     "timeWeek": 1157,
-    "timeMonth": 1403,
+    "timeMonth": 1405,
     "timeYear": 1612,
     "dailyMinutesDown": {
       "2022-06-26": 1072,
@@ -38,7 +38,7 @@
     "time": 1466,
     "timeDay": 1049,
     "timeWeek": 1229,
-    "timeMonth": 1455,
+    "timeMonth": 1456,
     "timeYear": 1482,
     "dailyMinutesDown": {
       "2021-10-13": 102,
@@ -64,7 +64,7 @@
     "time": 2267,
     "timeDay": 2054,
     "timeWeek": 1932,
-    "timeMonth": 2069,
+    "timeMonth": 2082,
     "timeYear": 2315,
     "dailyMinutesDown": {
       "2022-04-11": 19,
@@ -90,7 +90,7 @@
     "time": 1016,
     "timeDay": 687,
     "timeWeek": 1774,
-    "timeMonth": 1147,
+    "timeMonth": 1149,
     "timeYear": 1013,
     "dailyMinutesDown": {
       "2022-04-04": 19,
@@ -113,7 +113,7 @@
     "time": 1242,
     "timeDay": 722,
     "timeWeek": 1025,
-    "timeMonth": 1134,
+    "timeMonth": 1133,
     "timeYear": 1249,
     "dailyMinutesDown": {
       "2022-04-04": 19,
@@ -135,7 +135,7 @@
     "time": 1379,
     "timeDay": 975,
     "timeWeek": 1162,
-    "timeMonth": 1372,
+    "timeMonth": 1363,
     "timeYear": 1379,
     "dailyMinutesDown": {}
   },
@@ -153,7 +153,7 @@
     "time": 1336,
     "timeDay": 905,
     "timeWeek": 958,
-    "timeMonth": 1121,
+    "timeMonth": 1111,
     "timeYear": 1336,
     "dailyMinutesDown": {
       "2022-03-14": 48,
@@ -174,7 +174,7 @@
     "time": 1757,
     "timeDay": 1579,
     "timeWeek": 1782,
-    "timeMonth": 2772,
+    "timeMonth": 2741,
     "timeYear": 1757,
     "dailyMinutesDown": {
       "2022-04-22": 22,
@@ -195,7 +195,7 @@
     "time": 1077,
     "timeDay": 664,
     "timeWeek": 771,
-    "timeMonth": 927,
+    "timeMonth": 918,
     "timeYear": 1070,
     "dailyMinutesDown": {
       "2022-05-05": 46,
@@ -221,7 +221,7 @@
     "time": 1601,
     "timeDay": 1137,
     "timeWeek": 1203,
-    "timeMonth": 1387,
+    "timeMonth": 1381,
     "timeYear": 1601,
     "dailyMinutesDown": {}
   },
@@ -239,7 +239,7 @@
     "time": 1076,
     "timeDay": 789,
     "timeWeek": 860,
-    "timeMonth": 986,
+    "timeMonth": 977,
     "timeYear": 1076,
     "dailyMinutesDown": {}
   },
@@ -257,7 +257,7 @@
     "time": 1176,
     "timeDay": 1336,
     "timeWeek": 1035,
-    "timeMonth": 1152,
+    "timeMonth": 1154,
     "timeYear": 1176,
     "dailyMinutesDown": {
       "2022-04-11": 19
@@ -272,12 +272,12 @@
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.03%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.83%",
     "time": 1704,
     "timeDay": 573,
     "timeWeek": 710,
-    "timeMonth": 3094,
+    "timeMonth": 2923,
     "timeYear": 1802,
     "dailyMinutesDown": {
       "2022-06-08": 167,
@@ -302,7 +302,7 @@
     "time": 1212,
     "timeDay": 871,
     "timeWeek": 801,
-    "timeMonth": 1128,
+    "timeMonth": 1126,
     "timeYear": 1239,
     "dailyMinutesDown": {}
   },
@@ -338,7 +338,7 @@
     "time": 1122,
     "timeDay": 742,
     "timeWeek": 955,
-    "timeMonth": 968,
+    "timeMonth": 958,
     "timeYear": 1137,
     "dailyMinutesDown": {
       "2021-10-04": 21
@@ -358,7 +358,7 @@
     "time": 326,
     "timeDay": 100,
     "timeWeek": 163,
-    "timeMonth": 285,
+    "timeMonth": 288,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2022-06-03": 24,
@@ -382,7 +382,7 @@
     "time": 710,
     "timeDay": 503,
     "timeWeek": 580,
-    "timeMonth": 618,
+    "timeMonth": 613,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2021-12-15": 1020,
