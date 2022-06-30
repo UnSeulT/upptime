@@ -4,9 +4,9 @@
     "url": "https://solagro.org",
     "icon": "https://favicons.githubusercontent.com/solagro.org",
     "slug": "solagro",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "68.99%",
+    "uptimeDay": "78.64%",
     "uptimeWeek": "36.94%",
     "uptimeMonth": "85.49%",
     "uptimeYear": "98.77%",
@@ -16,6 +16,7 @@
     "timeMonth": 1405,
     "timeYear": 1609,
     "dailyMinutesDown": {
+      "2022-06-30": 0,
       "2022-06-29": 467,
       "2022-06-28": 855,
       "2022-06-27": 984,
@@ -252,9 +253,9 @@
     "slug": "junior-association-rnja",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1178,
     "timeDay": 1438,
@@ -262,7 +263,6 @@
     "timeMonth": 1177,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2022-06-30": 7,
       "2022-04-11": 19
     }
   },
