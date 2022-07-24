@@ -8,7 +8,7 @@
     "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.34%",
+    "uptimeMonth": "86.39%",
     "uptimeYear": "98.63%",
     "time": 1510,
     "timeDay": 1944,
@@ -152,9 +152,9 @@
     "url": "https://grainesdelpais.com/",
     "icon": "https://favicons.githubusercontent.com/grainesdelpais.com",
     "slug": "graines-del-pais",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -164,6 +164,7 @@
     "timeMonth": 1074,
     "timeYear": 1295,
     "dailyMinutesDown": {
+      "2022-07-24": 0,
       "2022-07-14": 21,
       "2022-03-14": 48,
       "2022-02-21": 20
