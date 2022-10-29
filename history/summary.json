@@ -37,18 +37,19 @@
     "url": "https://osez-agroecologie.org",
     "icon": "https://icons.duckduckgo.com/ip3/osez-agroecologie.org.ico",
     "slug": "osae",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1505,
+    "time": 1506,
     "timeDay": 1017,
     "timeWeek": 1594,
     "timeMonth": 1420,
     "timeYear": 1523,
     "dailyMinutesDown": {
+      "2022-10-29": 0,
       "2022-09-20": 29
     }
   },
