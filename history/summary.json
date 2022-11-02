@@ -216,10 +216,10 @@
     "url": "https://caisseepargne-art-contemporain.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/caisseepargne-art-contemporain.fr.ico",
     "slug": "fondation-ecureuil",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1514,
@@ -228,6 +228,7 @@
     "timeMonth": 1400,
     "timeYear": 1514,
     "dailyMinutesDown": {
+      "2022-11-02": 1,
       "2022-09-20": 24
     }
   },
