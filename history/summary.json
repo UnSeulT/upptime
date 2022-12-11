@@ -346,19 +346,19 @@
     "url": "https://accueilpourtous31.fr",
     "icon": "https://icons.duckduckgo.com/ip3/accueilpourtous31.fr.ico",
     "slug": "accueil-pour-tous",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1134,
-    "timeDay": 1190,
-    "timeWeek": 1112,
-    "timeMonth": 1269,
-    "timeYear": 1086,
+    "time": 1136,
+    "timeDay": 1452,
+    "timeWeek": 1208,
+    "timeMonth": 1291,
+    "timeYear": 1088,
     "dailyMinutesDown": {
-      "2022-12-11": 1
+      "2022-12-11": 13
     }
   },
   {
