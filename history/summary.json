@@ -92,7 +92,7 @@
     "time": 952,
     "timeDay": 612,
     "timeWeek": 825,
-    "timeMonth": 851,
+    "timeMonth": 847,
     "timeYear": 953,
     "dailyMinutesDown": {
       "2023-01-11": 22,
@@ -310,28 +310,30 @@
     "url": "https://cocagne31.org",
     "icon": "https://icons.duckduckgo.com/ip3/cocagne31.org.ico",
     "slug": "cocagne-acepp-31",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1139,
+    "time": 1140,
     "timeDay": 759,
     "timeWeek": 878,
     "timeMonth": 982,
     "timeYear": 1027,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-13": 1
+    }
   },
   {
     "name": "Moodle - Cocagne Acepp 31",
     "url": "https://moodle.cocagne31.org",
     "icon": "https://icons.duckduckgo.com/ip3/moodle.cocagne31.org.ico",
     "slug": "moodle-cocagne-acepp-31",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 711,
@@ -339,17 +341,19 @@
     "timeWeek": 641,
     "timeMonth": 648,
     "timeYear": 669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-13": 1
+    }
   },
   {
     "name": "Accueil pour tous",
     "url": "https://accueilpourtous31.fr",
     "icon": "https://icons.duckduckgo.com/ip3/accueilpourtous31.fr.ico",
     "slug": "accueil-pour-tous",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1125,
@@ -357,7 +361,9 @@
     "timeWeek": 982,
     "timeMonth": 1197,
     "timeYear": 1057,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-13": 1
+    }
   },
   {
     "name": "Tau",
