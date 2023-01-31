@@ -46,7 +46,7 @@
     "time": 1542,
     "timeDay": 1425,
     "timeWeek": 1391,
-    "timeMonth": 1678,
+    "timeMonth": 1535,
     "timeYear": 1571,
     "dailyMinutesDown": {
       "2022-10-29": 18,
@@ -396,18 +396,19 @@
     "url": "https://bujinkan-toulouse.com",
     "icon": "https://icons.duckduckgo.com/ip3/bujinkan-toulouse.com.ico",
     "slug": "bujinkan-toulouse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1010,
+    "time": 1011,
     "timeDay": 5638,
     "timeWeek": 2016,
     "timeMonth": 1884,
     "timeYear": 1108,
     "dailyMinutesDown": {
+      "2023-01-31": 1,
       "2022-10-21": 734,
       "2022-09-20": 22
     }
