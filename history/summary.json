@@ -224,7 +224,7 @@
     "timeMonth": 0,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2023-09-04": 1229,
+      "2023-09-04": 1236,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
@@ -459,19 +459,19 @@
     "url": "https://cocagne31.org",
     "icon": "https://icons.duckduckgo.com/ip3/cocagne31.org.ico",
     "slug": "cocagne-acepp-31",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 993,
-    "timeDay": 880,
-    "timeWeek": 921,
-    "timeMonth": 952,
-    "timeYear": 998,
+    "time": 992,
+    "timeDay": 819,
+    "timeWeek": 901,
+    "timeMonth": 946,
+    "timeYear": 997,
     "dailyMinutesDown": {
-      "2023-09-04": 1
+      "2023-09-04": 8
     }
   },
   {
