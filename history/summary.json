@@ -220,7 +220,7 @@
     "timeMonth": 0,
     "timeYear": 1257,
     "dailyMinutesDown": {
-      "2023-09-29": 1166,
+      "2023-09-29": 1197,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
@@ -409,19 +409,19 @@
     "url": "https://www.biaugerme.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.biaugerme.com.ico",
     "slug": "biaugerme",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1024,
-    "timeDay": 705,
-    "timeWeek": 1029,
-    "timeMonth": 955,
-    "timeYear": 988,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 1023,
+    "timeDay": 725,
+    "timeWeek": 994,
+    "timeMonth": 949,
+    "timeYear": 987,
     "dailyMinutesDown": {
-      "2023-09-29": 0
+      "2023-09-29": 31
     }
   },
   {
