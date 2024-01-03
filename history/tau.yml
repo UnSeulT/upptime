@@ -1,7 +1,7 @@
 url: https://tau.so
-status: up
-code: 200
-responseTime: 364
-lastUpdated: 2024-01-02T23:11:08.867Z
+status: down
+code: 500
+responseTime: 3271
+lastUpdated: 2024-01-03T16:41:19.187Z
 startTime: 2021-05-02T16:26:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
