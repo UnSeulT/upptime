@@ -174,12 +174,12 @@
     "slug": "lmac",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "90.59%",
+    "uptimeDay": "92.76%",
     "uptimeWeek": "98.48%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.93%",
     "time": 1523,
-    "timeDay": 3968,
+    "timeDay": 4455,
     "timeWeek": 2153,
     "timeMonth": 1291,
     "timeYear": 1447,
@@ -225,18 +225,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/caisseepargne-art-contemporain.fr.ico",
     "slug": "fondation-ecureuil",
     "status": "down",
-    "uptime": "55.51%",
+    "uptime": "55.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.83%",
+    "uptimeYear": "9.77%",
     "time": 1257,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 893,
     "dailyMinutesDown": {
-      "2024-02-25": 591,
+      "2024-02-25": 937,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
@@ -638,10 +638,10 @@
     "url": "https://cocagne31.org",
     "icon": "https://icons.duckduckgo.com/ip3/cocagne31.org.ico",
     "slug": "cocagne-acepp-31",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1012,
@@ -649,17 +649,19 @@
     "timeWeek": 1014,
     "timeMonth": 969,
     "timeYear": 996,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-25": 2
+    }
   },
   {
     "name": "Moodle - Cocagne Acepp 31",
     "url": "https://moodle.cocagne31.org",
     "icon": "https://icons.duckduckgo.com/ip3/moodle.cocagne31.org.ico",
     "slug": "moodle-cocagne-acepp-31",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 692,
@@ -667,16 +669,18 @@
     "timeWeek": 644,
     "timeMonth": 652,
     "timeYear": 689,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-25": 1
+    }
   },
   {
     "name": "Accueil pour tous",
     "url": "https://accueilpourtous31.fr",
     "icon": "https://icons.duckduckgo.com/ip3/accueilpourtous31.fr.ico",
     "slug": "accueil-pour-tous",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -685,7 +689,9 @@
     "timeWeek": 828,
     "timeMonth": 884,
     "timeYear": 1171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-25": 0
+    }
   },
   {
     "name": "Tau",
