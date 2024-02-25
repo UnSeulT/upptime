@@ -174,7 +174,7 @@
     "slug": "lmac",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "92.93%",
+    "uptimeDay": "93.25%",
     "uptimeWeek": "98.48%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.93%",
@@ -229,14 +229,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.77%",
+    "uptimeYear": "9.76%",
     "time": 1257,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 893,
     "dailyMinutesDown": {
-      "2024-02-25": 947,
+      "2024-02-25": 954,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
@@ -640,9 +640,9 @@
     "slug": "cocagne-acepp-31",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1012,
     "timeDay": 856,
@@ -650,7 +650,7 @@
     "timeMonth": 969,
     "timeYear": 996,
     "dailyMinutesDown": {
-      "2024-02-25": 11
+      "2024-02-25": 18
     }
   },
   {
@@ -658,11 +658,11 @@
     "url": "https://moodle.cocagne31.org",
     "icon": "https://icons.duckduckgo.com/ip3/moodle.cocagne31.org.ico",
     "slug": "moodle-cocagne-acepp-31",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 744,
     "timeDay": 13501,
@@ -670,7 +670,7 @@
     "timeMonth": 1457,
     "timeYear": 760,
     "dailyMinutesDown": {
-      "2024-02-25": 9
+      "2024-02-25": 1
     }
   },
   {
@@ -680,9 +680,9 @@
     "slug": "accueil-pour-tous",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1205,
     "timeDay": 720,
@@ -690,7 +690,7 @@
     "timeMonth": 884,
     "timeYear": 1171,
     "dailyMinutesDown": {
-      "2024-02-25": 10
+      "2024-02-25": 17
     }
   },
   {
