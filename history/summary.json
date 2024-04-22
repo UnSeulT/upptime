@@ -220,7 +220,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/caisseepargne-art-contemporain.fr.ico",
     "slug": "fondation-ecureuil",
     "status": "down",
-    "uptime": "51.56%",
+    "uptime": "51.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -231,7 +231,7 @@
     "timeMonth": 0,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2024-04-22": 79,
+      "2024-04-22": 983,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
@@ -650,10 +650,10 @@
     "url": "https://bio34.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bio34.com.ico",
     "slug": "bio-34",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 754,
@@ -661,7 +661,9 @@
     "timeWeek": 961,
     "timeMonth": 764,
     "timeYear": 761,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-22": 1
+    }
   },
   {
     "name": "Cocagne Acepp 31",
