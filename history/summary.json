@@ -4,9 +4,9 @@
     "url": "https://solagro.org",
     "icon": "https://icons.duckduckgo.com/ip3/solagro.org.ico",
     "slug": "solagro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 2474,
     "timeYear": 2201,
     "dailyMinutesDown": {
+      "2024-05-02": 0,
       "2024-03-28": 17,
       "2023-11-02": 28
     }
@@ -217,7 +218,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/caisseepargne-art-contemporain.fr.ico",
     "slug": "fondation-ecureuil",
     "status": "down",
-    "uptime": "50.92%",
+    "uptime": "50.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -228,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2024-05-02": 78,
+      "2024-05-02": 816,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
