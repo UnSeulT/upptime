@@ -124,10 +124,10 @@
     "url": "https://www.domrobert.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.domrobert.com.ico",
     "slug": "dom-robert",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1371,
@@ -136,6 +136,7 @@
     "timeMonth": 1606,
     "timeYear": 1379,
     "dailyMinutesDown": {
+      "2024-06-25": 1,
       "2024-02-22": 33,
       "2023-09-20": 34
     }
@@ -223,7 +224,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/caisseepargne-art-contemporain.fr.ico",
     "slug": "fondation-ecureuil",
     "status": "down",
-    "uptime": "47.70%",
+    "uptime": "47.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -234,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 853,
+      "2024-06-25": 1017,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
