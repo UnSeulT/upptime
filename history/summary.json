@@ -229,7 +229,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/caisseepargne-art-contemporain.fr.ico",
     "slug": "fondation-ecureuil",
     "status": "down",
-    "uptime": "45.66%",
+    "uptime": "45.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -240,7 +240,7 @@
     "timeMonth": 415,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2024-08-03": 86,
+      "2024-08-03": 628,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
@@ -739,18 +739,20 @@
     "url": "https://tau.so",
     "icon": "https://icons.duckduckgo.com/ip3/tau.so.ico",
     "slug": "tau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 292,
-    "timeWeek": 247,
-    "timeMonth": 332,
-    "timeYear": 338,
-    "dailyMinutesDown": {}
+    "time": 332,
+    "timeDay": 1309,
+    "timeWeek": 507,
+    "timeMonth": 396,
+    "timeYear": 343,
+    "dailyMinutesDown": {
+      "2024-08-03": 1
+    }
   },
   {
     "name": "Bujinkan Toulouse",
