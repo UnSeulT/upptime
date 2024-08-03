@@ -240,7 +240,7 @@
     "timeMonth": 415,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2024-08-03": 628,
+      "2024-08-03": 637,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
@@ -739,19 +739,19 @@
     "url": "https://tau.so",
     "icon": "https://icons.duckduckgo.com/ip3/tau.so.ico",
     "slug": "tau",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 332,
-    "timeDay": 1309,
-    "timeWeek": 507,
-    "timeMonth": 396,
+    "timeDay": 990,
+    "timeWeek": 490,
+    "timeMonth": 395,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2024-08-03": 1
+      "2024-08-03": 9
     }
   },
   {
