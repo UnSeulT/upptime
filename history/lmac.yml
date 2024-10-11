@@ -1,7 +1,7 @@
 url: https://reseau-lmac.fr
-status: down
-code: 503
-responseTime: 622
-lastUpdated: 2024-10-11T12:28:22.281Z
+status: up
+code: 200
+responseTime: 1173
+lastUpdated: 2024-10-11T13:46:12.826Z
 startTime: 2022-02-15T14:28:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
