@@ -233,7 +233,7 @@
     "timeMonth": 410,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2024-11-18": 885,
+      "2024-11-18": 986,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -632,9 +632,9 @@
     "slug": "junior-association-rnja",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "90.46%",
-    "uptimeMonth": "97.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "90.58%",
+    "uptimeMonth": "97.83%",
     "uptimeYear": "99.64%",
     "time": 1026,
     "timeDay": 804,
@@ -642,7 +642,6 @@
     "timeMonth": 1078,
     "timeYear": 1026,
     "dailyMinutesDown": {
-      "2024-11-18": 12,
       "2024-11-12": 687,
       "2024-11-11": 263,
       "2024-10-17": 15,
@@ -750,10 +749,10 @@
     "url": "https://tau.so",
     "icon": "https://icons.duckduckgo.com/ip3/tau.so.ico",
     "slug": "tau",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 338,
@@ -762,6 +761,7 @@
     "timeMonth": 344,
     "timeYear": 353,
     "dailyMinutesDown": {
+      "2024-11-18": 1,
       "2024-09-14": 19
     }
   },
