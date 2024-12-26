@@ -1,7 +1,7 @@
 url: https://solagro.org
-status: up
-code: 200
-responseTime: 2656
-lastUpdated: 2024-12-25T23:12:54.098Z
+status: down
+code: 503
+responseTime: 564
+lastUpdated: 2024-12-26T19:15:36.344Z
 startTime: 2021-05-02T12:30:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
