@@ -150,7 +150,7 @@
     "timeDay": 1307,
     "timeWeek": 1274,
     "timeMonth": 1389,
-    "timeYear": 1424,
+    "timeYear": 1427,
     "dailyMinutesDown": {
       "2024-06-25": 30
     }
@@ -241,7 +241,7 @@
     "timeMonth": 386,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2025-02-22": 1302,
+      "2025-02-22": 1361,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -613,19 +613,19 @@
     "url": "https://www.biaugerme.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.biaugerme.com.ico",
     "slug": "biaugerme",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.71%",
-    "time": 1386,
+    "time": 1387,
     "timeDay": 1534,
     "timeWeek": 1576,
     "timeMonth": 1718,
     "timeYear": 1403,
     "dailyMinutesDown": {
-      "2025-02-22": 8,
+      "2025-02-22": 0,
       "2025-02-19": 25,
       "2025-02-13": 67,
       "2025-02-11": 16,
