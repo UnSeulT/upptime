@@ -1,7 +1,7 @@
 url: https://moodle.cocagne31.org
-status: up
-code: 200
-responseTime: 939
-lastUpdated: 2025-06-25T23:16:00.301Z
+status: down
+code: 503
+responseTime: 778
+lastUpdated: 2025-06-26T08:54:28.563Z
 startTime: 2021-05-02T16:26:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
