@@ -156,19 +156,19 @@
     "url": "https://www.domrobert.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.domrobert.com.ico",
     "slug": "dom-robert",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1444,
-    "timeDay": 1100,
-    "timeWeek": 1531,
-    "timeMonth": 1458,
-    "timeYear": 1436,
+    "time": 1445,
+    "timeDay": 1297,
+    "timeWeek": 1549,
+    "timeMonth": 1465,
+    "timeYear": 1437,
     "dailyMinutesDown": {
-      "2025-07-29": 1
+      "2025-07-29": 14
     }
   },
   {
@@ -251,7 +251,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/caisseepargne-art-contemporain.fr.ico",
     "slug": "fondation-ecureuil",
     "status": "down",
-    "uptime": "32.59%",
+    "uptime": "32.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -262,7 +262,7 @@
     "timeMonth": 446,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2025-07-29": 1294,
+      "2025-07-29": 1308,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
