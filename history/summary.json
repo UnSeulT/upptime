@@ -94,7 +94,7 @@
     "uptimeYear": "99.73%",
     "time": 2567,
     "timeDay": 2569,
-    "timeWeek": 1960,
+    "timeWeek": 1974,
     "timeMonth": 2094,
     "timeYear": 2479,
     "dailyMinutesDown": {
@@ -202,10 +202,10 @@
     "url": "https://grainesdelpais.com/",
     "icon": "https://icons.duckduckgo.com/ip3/grainesdelpais.com.ico",
     "slug": "graines-del-pais",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 1490,
@@ -214,6 +214,7 @@
     "timeMonth": 1510,
     "timeYear": 1557,
     "dailyMinutesDown": {
+      "2025-10-04": 1,
       "2025-09-09": 25,
       "2025-08-26": 48,
       "2025-06-07": 16,
@@ -292,7 +293,7 @@
     "timeMonth": 532,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-10-04": 1253,
+      "2025-10-04": 1332,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
@@ -745,9 +746,9 @@
     "slug": "bio-34",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 843,
     "timeDay": 923,
@@ -755,7 +756,7 @@
     "timeMonth": 840,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2025-10-04": 24,
+      "2025-10-04": 17,
       "2025-09-09": 25,
       "2025-08-26": 49
     }
