@@ -292,7 +292,7 @@
     "timeMonth": 532,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-10-04": 1228,
+      "2025-10-04": 1247,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
@@ -743,9 +743,9 @@
     "url": "https://bio34.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bio34.com.ico",
     "slug": "bio-34",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "98.78%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
@@ -755,7 +755,7 @@
     "timeMonth": 836,
     "timeYear": 851,
     "dailyMinutesDown": {
-      "2025-10-04": 17,
+      "2025-10-04": 18,
       "2025-09-09": 25,
       "2025-08-26": 49
     }
