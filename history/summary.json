@@ -4,9 +4,9 @@
     "url": "https://solagro.org",
     "icon": "https://icons.duckduckgo.com/ip3/solagro.org.ico",
     "slug": "solagro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "98.86%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.58%",
@@ -16,6 +16,7 @@
     "timeMonth": 1084,
     "timeYear": 1596,
     "dailyMinutesDown": {
+      "2025-11-04": 1,
       "2025-11-03": 16,
       "2025-10-29": 41,
       "2025-10-27": 20,
@@ -305,7 +306,7 @@
     "timeMonth": 456,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2025-11-04": 447,
+      "2025-11-04": 583,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
