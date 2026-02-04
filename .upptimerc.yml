@@ -3,40 +3,46 @@ owner: UnSeulT # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
+  - name: InterAFOCG
+    url: https://interafocg.org/
+  - name: AMAP IdF
+    url: https://amap-idf.org/
+  - name: AMAPartage
+    url: https://amapartage.fr/
+  - name: Bio 34
+    url: https://bio34.com/
+  - name: Solidarité Paysans
+    url: https://solidaritepaysans.org/
+  - name: Emmaüs Le Maquis
+    url: https://emmauslemaquis.org/
   - name: Solagro
     url: https://solagro.org
-  - name: Osae
-    url: https://osez-agroecologie.org
-  - name: Afterres 2050
-    url: http://afterres2050.solagro.org
+  - name: Afterres
+    url: https://afterres.org
+  - name: Metha BFC
+    url: https://methabfc.fr/
+  - name: Junior Association RNJA
+    url: https://juniorassociation.org/
+  - name: "Choeur à l'ouvrage"
+    url: https://choeuralouvrage.org/
+  - name: La place de la danse
+    url: https://laplacedeladanse.com
+  - name: LMAC
+    url: https://reseau-lmac.fr
+  - name: Dom Robert
+    url: https://www.domrobert.com/
   - name: Encalcat Abbaye
     url: https://encalcat.com
   - name: Encalcat Boutique
     url: https://boutique.encalcat.com
-  - name: Dom Robert
-    url: https://www.domrobert.com/
-  - name: Graines del Païs
-    url: https://grainesdelpais.com/
-  - name: LMAC
-    url: https://reseau-lmac.fr
-  - name: La place de la danse
-    url: https://laplacedeladanse.com
-  - name: Fondation Écureuil
-    url: https://caisseepargne-art-contemporain.fr/
-  - name: Biaugerme
-    url: https://www.biaugerme.com/
-  - name: Junior Association RNJA
-    url: https://juniorassociation.org/
-  - name: Bio 34
-    url: https://bio34.com/
+  - name: Bénédictines Dourgne
+    url: https://benedictines-dourgne.org/
   - name: Cocagne Acepp 31
     url: https://cocagne31.org
   - name: Moodle - Cocagne Acepp 31
     url: https://moodle.cocagne31.org
   - name: Accueil pour tous
     url: https://accueilpourtous31.fr
-  - name: Tau
-    url: https://tau.so
   - name: Bujinkan Toulouse
     url: https://bujinkan-toulouse.com
 
