@@ -4,19 +4,20 @@
     "url": "https://interafocg.org/",
     "icon": "https://icons.duckduckgo.com/ip3/interafocg.org.ico",
     "slug": "inter-afocg",
-    "status": "down",
-    "uptime": "95.48%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "95.64%",
-    "uptimeMonth": "95.62%",
-    "uptimeYear": "95.48%",
-    "time": 1521,
-    "timeDay": 1272,
-    "timeWeek": 1382,
-    "timeMonth": 1529,
-    "timeYear": 1521,
+    "status": "up",
+    "uptime": "95.23%",
+    "uptimeDay": "92.54%",
+    "uptimeWeek": "94.58%",
+    "uptimeMonth": "95.37%",
+    "uptimeYear": "95.23%",
+    "time": 1515,
+    "timeDay": 1163,
+    "timeWeek": 1365,
+    "timeMonth": 1522,
+    "timeYear": 1515,
     "dailyMinutesDown": {
-      "2026-03-04": 1,
+      "2026-03-05": 103,
+      "2026-03-04": 4,
       "2026-03-03": 31,
       "2026-03-02": 150,
       "2026-03-01": 45,
@@ -61,19 +62,20 @@
     "url": "https://amapartage.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/amapartage.fr.ico",
     "slug": "ama-partage",
-    "status": "down",
-    "uptime": "94.84%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "95.07%",
-    "uptimeMonth": "94.98%",
-    "uptimeYear": "94.84%",
+    "status": "up",
+    "uptime": "94.60%",
+    "uptimeDay": "92.54%",
+    "uptimeWeek": "94.01%",
+    "uptimeMonth": "94.73%",
+    "uptimeYear": "94.60%",
     "time": 936,
-    "timeDay": 688,
-    "timeWeek": 886,
-    "timeMonth": 932,
+    "timeDay": 780,
+    "timeWeek": 889,
+    "timeMonth": 933,
     "timeYear": 936,
     "dailyMinutesDown": {
-      "2026-03-04": 1,
+      "2026-03-05": 103,
+      "2026-03-04": 4,
       "2026-03-03": 31,
       "2026-03-02": 150,
       "2026-03-01": 45,
@@ -380,8 +382,7 @@
       "2025-05-14": 23,
       "2025-04-15": 121,
       "2025-03-29": 80,
-      "2025-03-16": 16,
-      "2025-03-05": 28
+      "2025-03-16": 16
     }
   },
   {
@@ -454,8 +455,7 @@
       "2025-07-26": 31,
       "2025-05-07": 23,
       "2025-04-27": 27,
-      "2025-03-26": 55,
-      "2025-03-05": 96
+      "2025-03-26": 55
     }
   },
   {
@@ -493,8 +493,7 @@
       "2025-08-13": 130,
       "2025-08-12": 16,
       "2025-04-27": 25,
-      "2025-03-26": 54,
-      "2025-03-05": 95
+      "2025-03-26": 54
     }
   },
   {
