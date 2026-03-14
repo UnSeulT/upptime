@@ -1,7 +1,7 @@
 url: https://amapartage.fr/
-status: up
-code: 200
-responseTime: 1247
-lastUpdated: 2026-03-13T23:25:11.368Z
+status: down
+code: 503
+responseTime: 719
+lastUpdated: 2026-03-14T05:14:47.560Z
 startTime: 2026-02-04T14:59:35.717Z
 generator: Upptime <https://github.com/upptime/upptime>
